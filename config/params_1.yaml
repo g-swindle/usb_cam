@@ -18,6 +18,6 @@
       auto_white_balance: true
       white_balance: 4000
       autoexposure: true
-      exposure: 100
+      exposure: 50
       autofocus: false
       focus: -1
